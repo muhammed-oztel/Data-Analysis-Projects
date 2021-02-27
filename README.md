@@ -1,2 +1,2 @@
 # Data-Analysis-Projects
-Assignment of Exploratory Data Analysis
+Assignments of Exploratory Data Analysis
